@@ -22,4 +22,4 @@ with blocked permissions to continue operating successfully with our fake data i
 
 ## Demo
 
-![Alt Text](assets/DemoVideo.gif)
+![Alt Text](assets/DemoVideo.gif =x500)
