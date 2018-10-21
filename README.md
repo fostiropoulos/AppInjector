@@ -13,3 +13,13 @@ are used. In some older versions of Android, there was a hidden App Ops feature,
 block permissions would make many apps that depend on these permissions crash because of uncaught
 exceptions thrown by API calls when the permission is not available. Our solution should allow apps
 with blocked permissions to continue operating successfully with our fake data instead of crashing.
+
+## Poster
+
+<p align="center">
+  <img src="assets/Poster.png">
+</p>
+
+## Demo
+
+![Alt Text](assets/DemoVideo.gif)
